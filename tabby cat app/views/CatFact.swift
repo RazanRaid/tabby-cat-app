@@ -8,7 +8,7 @@
 import Foundation
 
 
-struct Catfact: Codable {
+struct CatFact: Codable {
     var fact: String
     var length: Int
 }
